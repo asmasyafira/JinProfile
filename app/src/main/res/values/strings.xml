@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JinProfile</string>
+    <string name="jin">Kim Seok-jin</string>
+    <string name="job">Penyanyi</string>
+    <string name="profileJin">\t singer and songwriter from South Korea.\n
+        \t He is the oldest member and vocalist of a\n
+        \t boy group in South Korea, BTS. </string>
+    <string name="postan">15</string>
+    <string name="followers">21.7M</string>
+    <string name="following">9</string>
+    <string name="pengikut">Followers</string>
+    <string name="diikuti">Following</string>
+    <string name="kiriman">Post</string>
+    <string name="polow">Follow</string>
+</resources>
